@@ -157,3 +157,6 @@ src/main/java/com/unifacisa/Academia
 ├── repositories  # acesso ao banco (Spring Data JPA)
 └── entities      # entidades e relacionamentos JPA
 ```
+# Autor
+
+Projetado realizado em grupo
